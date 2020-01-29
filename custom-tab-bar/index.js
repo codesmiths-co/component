@@ -28,7 +28,7 @@ Component({
       const data = e.currentTarget.dataset
       const url = data.path
       wx.switchTab({
-        url: 'url',
+        url: url,
       })
       this.setData({
         selected: data.index
