@@ -12,15 +12,21 @@
     "list": [
       {
         "pagePath": "index/index",
-        "iconPath": "image/icon_component.png",
-        "selectedIconPath": "image/icon_component_HL.png",
-        "text": "组件"
+        "iconPath": "image/tab1.png",
+        "selectedIconPath": "image/tab1_active.png",
+        "text": "All Dogs"
       },
       {
         "pagePath": "index/index2",
-        "iconPath": "image/icon_API.png",
-        "selectedIconPath": "image/icon_API_HL.png",
-        "text": "接口"
+        "iconPath": "image/tab2.png",
+        "selectedIconPath": "image/tab2.png",
+        "text": "Post a Dog"
+      },
+      {
+        "pagePath": "index/index",
+        "iconPath": "image/tab3.png",
+        "selectedIconPath": "image/tab3_active.png",
+        "text": "My Profile"
       }
     ]
   },
